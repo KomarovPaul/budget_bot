@@ -1,0 +1,22 @@
+{
+  "name": "budget_bot",
+  "version": "1.0.0",
+  "description": "It's services for telegram bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulMosquito/budget_bot.git"
+  },
+  "author": "Paul Mosquito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulMosquito/budget_bot/issues"
+  },
+  "homepage": "https://github.com/PaulMosquito/budget_bot#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
